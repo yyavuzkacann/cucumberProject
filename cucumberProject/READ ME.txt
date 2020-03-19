@@ -1,0 +1,10 @@
+Bu proje Yavuz Kaçan tarafindan Openpayd sirketi QA Engineer pozisyonu için hazirlanmistir.
+
+Projeyi çalistirmak için;
+--> src/test/java dosyasi içerisindeki runner package'si altindaki executeAmazonLogin.java
+ dosyasina sag tiklayarak Run As ve daha sonra Junit Test adimlarini takip edebilirsiniz.
+--> Sonuçlari görüntülemek için target dosyasina sag tiklayarak refresh yapmaniz gerekmektedir
+bu islemden sonra ilgili dosya içerisinden sonuçlara html, xml veya json formatinda ulasabilirsiniz.
+
+Proje dosyasinin içerisinde cucumberProjectRecord isimli bir video bulunmaktadir. Ilgili
+video proje test edilirken record edilmistir.
